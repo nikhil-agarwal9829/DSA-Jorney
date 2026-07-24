@@ -21,6 +21,7 @@
 | [0796-rotate-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Trie
 |  |
 | ------- |
