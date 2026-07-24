@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## String
 |  |
 | ------- |
@@ -69,4 +70,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
