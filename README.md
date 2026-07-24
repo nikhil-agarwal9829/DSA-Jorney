@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0033-search-in-rotated-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
