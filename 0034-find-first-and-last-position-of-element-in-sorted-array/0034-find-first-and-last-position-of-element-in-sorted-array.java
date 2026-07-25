@@ -12,7 +12,7 @@ class Solution {
             }else{
                 l=mid+1;
             }
-            if(mid<nums.length && nums[mid]==target) ans=mid;
+            if(nums[mid]==target) ans=mid;
         }
         return ans;
     }
