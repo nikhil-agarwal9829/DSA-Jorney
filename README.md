@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0704-binary-search) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0704-binary-search) |
