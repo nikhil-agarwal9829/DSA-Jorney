@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
 ## String
 |  |
@@ -92,6 +93,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
@@ -105,4 +107,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
