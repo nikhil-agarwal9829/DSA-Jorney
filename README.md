@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0875-koko-eating-bananas) |
