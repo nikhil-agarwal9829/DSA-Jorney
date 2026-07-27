@@ -22,6 +22,7 @@
 | [0875-koko-eating-bananas](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2643-row-with-maximum-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2643-row-with-maximum-ones) |
 ## String
 |  |
@@ -39,6 +40,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0125-valid-palindrome](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0189-rotate-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
