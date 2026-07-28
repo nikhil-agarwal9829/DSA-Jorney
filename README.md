@@ -27,6 +27,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2643-row-with-maximum-ones) |
+| [3187-peaks-in-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3187-peaks-in-array) |
 ## String
 |  |
 | ------- |
@@ -158,4 +159,12 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3187-peaks-in-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3187-peaks-in-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3187-peaks-in-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3187-peaks-in-array) |
 <!---LeetCode Topics End-->
