@@ -25,6 +25,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2643-row-with-maximum-ones) |
 ## String
 |  |
@@ -95,6 +96,7 @@
 | [0189-rotate-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0283-move-zeroes) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [2543-check-if-point-is-reachable](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2543-check-if-point-is-reachable) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
