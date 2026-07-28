@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0229-majority-element-ii) |
