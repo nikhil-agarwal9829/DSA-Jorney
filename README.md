@@ -31,6 +31,7 @@
 | [0875-koko-eating-bananas](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1572-matrix-diagonal-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2643-row-with-maximum-ones) |
@@ -160,6 +161,7 @@
 | [0074-search-a-2d-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
