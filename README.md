@@ -19,6 +19,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0283-move-zeroes) |
+| [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
 | [0485-max-consecutive-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0704-binary-search) |
@@ -72,6 +73,7 @@
 | [0169-majority-element](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
+| [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -153,6 +155,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0240-search-a-2d-matrix-ii) |
+| [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,4 +176,12 @@
 |  |
 | ------- |
 | [3187-peaks-in-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3187-peaks-in-array) |
+## Greedy
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
 <!---LeetCode Topics End-->
