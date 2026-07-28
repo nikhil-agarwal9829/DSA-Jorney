@@ -34,6 +34,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2643-row-with-maximum-ones) |
@@ -166,6 +167,7 @@
 | [0867-transpose-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2643-row-with-maximum-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
