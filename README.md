@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0075-sort-colors) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
@@ -161,6 +163,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0240-search-a-2d-matrix-ii) |
