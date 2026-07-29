@@ -13,6 +13,7 @@
 | [0041-first-missing-positive](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0229-majority-element-ii) |
@@ -165,6 +167,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0867-transpose-matrix) |
