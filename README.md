@@ -133,6 +133,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | [0189-rotate-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
 | [2543-check-if-point-is-reachable](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2543-check-if-point-is-reachable) |
 ## Matrix
 |  |
@@ -224,4 +226,12 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0724-find-pivot-index) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
