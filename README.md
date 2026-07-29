@@ -165,6 +165,7 @@
 | [0007-reverse-integer](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
@@ -229,6 +230,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
