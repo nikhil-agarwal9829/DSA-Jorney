@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0031-next-permutation) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0075-sort-colors) |
@@ -206,6 +208,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
