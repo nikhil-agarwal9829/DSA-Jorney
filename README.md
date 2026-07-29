@@ -171,6 +171,7 @@
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1922-count-good-numbers) |
 | [2543-check-if-point-is-reachable](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2543-check-if-point-is-reachable) |
 ## Matrix
 |  |
@@ -232,6 +233,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
