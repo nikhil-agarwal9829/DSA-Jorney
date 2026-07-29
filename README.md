@@ -62,6 +62,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0287-find-the-duplicate-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Number Theory
 |  |
 | ------- |
@@ -238,4 +240,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
