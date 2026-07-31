@@ -19,6 +19,7 @@
 | [0075-sort-colors](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@
 | [0014-longest-common-prefix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0242-valid-anagram) |
@@ -74,12 +76,14 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0229-majority-element-ii) |
@@ -143,6 +147,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0377-combination-sum-iv) |
@@ -257,6 +262,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
