@@ -56,6 +56,7 @@
 | [0008-string-to-integer-atoi](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0014-longest-common-prefix) |
+| [0091-decode-ways](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0205-isomorphic-strings) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0005-longest-palindromic-substring) |
+| [0091-decode-ways](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0213-house-robber-ii) |
