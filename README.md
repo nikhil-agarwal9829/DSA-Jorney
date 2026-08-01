@@ -39,6 +39,7 @@
 | [0485-max-consecutive-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0740-delete-and-earn) |
@@ -277,4 +278,8 @@
 | ------- |
 | [0494-target-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
