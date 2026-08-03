@@ -73,6 +73,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0796-rotate-string) |
@@ -99,6 +100,7 @@
 | [0229-majority-element-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0451-sort-characters-by-frequency) |
 | [0740-delete-and-earn](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0740-delete-and-earn) |
@@ -294,6 +296,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
