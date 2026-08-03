@@ -49,6 +49,7 @@
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -169,6 +170,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1922-count-good-numbers) |
 | [2543-check-if-point-is-reachable](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2543-check-if-point-is-reachable) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -297,4 +300,13 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
