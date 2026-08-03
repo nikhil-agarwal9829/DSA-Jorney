@@ -46,6 +46,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1572-matrix-diagonal-sum) |
@@ -163,6 +164,7 @@
 | [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
@@ -202,6 +204,7 @@
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1137-n-th-tribonacci-number) |
 | [1922-count-good-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1922-count-good-numbers) |
 | [2543-check-if-point-is-reachable](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2543-check-if-point-is-reachable) |
@@ -285,4 +288,8 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
