@@ -215,6 +215,7 @@
 | [0048-rotate-image](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
@@ -248,6 +249,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
@@ -303,6 +305,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
