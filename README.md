@@ -81,6 +81,7 @@
 | [0520-detect-capital](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0796-rotate-string) |
+| [0972-equal-rational-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0972-equal-rational-numbers) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -224,6 +225,7 @@
 | [0367-valid-perfect-square](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
+| [0972-equal-rational-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0972-equal-rational-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1922-count-good-numbers) |
