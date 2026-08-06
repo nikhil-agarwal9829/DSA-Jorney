@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -99,6 +100,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0073-set-matrix-zeroes) |
