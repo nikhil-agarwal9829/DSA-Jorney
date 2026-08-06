@@ -254,6 +254,7 @@
 | [0231-power-of-two](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0287-find-the-duplicate-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2595-number-of-even-and-odd-bits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Number Theory
