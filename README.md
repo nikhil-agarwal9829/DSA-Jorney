@@ -227,6 +227,7 @@
 | [1922-count-good-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1922-count-good-numbers) |
 | [2543-check-if-point-is-reachable](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2543-check-if-point-is-reachable) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
 | ------- |
@@ -332,4 +333,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
