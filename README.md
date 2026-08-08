@@ -53,6 +53,7 @@
 | [0875-koko-eating-bananas](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -146,6 +147,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0922-sort-array-by-parity-ii) |
 | [3731-find-missing-elements](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -185,6 +187,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0567-permutation-in-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0922-sort-array-by-parity-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
