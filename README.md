@@ -52,6 +52,7 @@
 | [0867-transpose-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -144,15 +145,18 @@
 | [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -274,6 +278,7 @@
 | [0169-majority-element](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
+| [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -369,4 +374,16 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3345-smallest-divisible-digit-product-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
