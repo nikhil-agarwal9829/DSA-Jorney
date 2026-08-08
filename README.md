@@ -94,6 +94,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
@@ -182,6 +183,7 @@
 | [0567-permutation-in-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0567-permutation-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -308,6 +311,7 @@
 | [0011-container-with-most-water](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Quickselect
 |  |
