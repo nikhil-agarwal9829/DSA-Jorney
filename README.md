@@ -55,6 +55,7 @@
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0922-sort-array-by-parity-ii) |
+| [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -211,6 +212,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
@@ -257,6 +259,7 @@
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [0972-equal-rational-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0972-equal-rational-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1922-count-good-numbers) |
 | [2543-check-if-point-is-reachable](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2543-check-if-point-is-reachable) |
@@ -332,6 +335,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
 |  |
@@ -367,14 +371,17 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
