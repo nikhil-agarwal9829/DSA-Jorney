@@ -70,6 +70,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2498-frog-jump-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2498-frog-jump-ii) |
 | [2643-row-with-maximum-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2965-find-missing-and-repeated-values) |
 | [3187-peaks-in-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3187-peaks-in-array) |
@@ -241,6 +242,7 @@
 | [0875-koko-eating-bananas](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
+| [2498-frog-jump-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2498-frog-jump-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
+| [2498-frog-jump-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3348-smallest-divisible-digit-product-ii) |
