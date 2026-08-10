@@ -97,6 +97,7 @@
 | [0567-permutation-in-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0796-rotate-string) |
 | [0972-equal-rational-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0972-equal-rational-numbers) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -179,6 +180,7 @@
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
