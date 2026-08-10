@@ -40,6 +40,7 @@
 | [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0485-max-consecutive-ones) |
@@ -205,6 +206,7 @@
 | [0198-house-robber](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
