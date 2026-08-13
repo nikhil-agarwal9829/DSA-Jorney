@@ -71,6 +71,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-frog-jump-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2498-frog-jump-ii) |
@@ -104,6 +105,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -339,6 +341,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3187-peaks-in-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3187-peaks-in-array) |
 ## Greedy
 |  |
@@ -438,4 +441,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
