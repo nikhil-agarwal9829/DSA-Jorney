@@ -107,6 +107,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -143,6 +144,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
@@ -393,6 +395,7 @@
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Game Theory
 |  |
 | ------- |
