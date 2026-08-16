@@ -69,6 +69,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -188,6 +189,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1922-count-good-numbers) |
+| [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 | [2543-check-if-point-is-reachable](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2543-check-if-point-is-reachable) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -356,6 +359,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
+| [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 | [2498-frog-jump-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -409,18 +413,21 @@
 | [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
@@ -446,6 +453,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
