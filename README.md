@@ -66,6 +66,7 @@
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -239,6 +240,7 @@
 | [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -288,6 +290,7 @@
 | [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1563-stone-game-v) |
 | [1922-count-good-numbers](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 | [2543-check-if-point-is-reachable](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2543-check-if-point-is-reachable) |
@@ -413,6 +416,7 @@
 | [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
