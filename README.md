@@ -63,6 +63,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
@@ -142,6 +143,7 @@
 | [0567-permutation-in-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0740-delete-and-earn) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1207-unique-number-of-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -332,6 +334,7 @@
 | [0231-power-of-two](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2595-number-of-even-and-odd-bits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -364,6 +367,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
+| [1386-cinema-seat-allocation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 | [2498-frog-jump-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
