@@ -82,6 +82,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3187-peaks-in-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3187-peaks-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -350,6 +351,7 @@
 | [0054-spiral-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Binary Indexed Tree
 |  |
