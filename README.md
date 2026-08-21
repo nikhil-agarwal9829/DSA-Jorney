@@ -84,6 +84,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3187-peaks-in-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3187-peaks-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -271,6 +272,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
 | [2498-frog-jump-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2498-frog-jump-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Interactive
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [2543-check-if-point-is-reachable](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2543-check-if-point-is-reachable) |
 | [2965-find-missing-and-repeated-values](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
@@ -338,12 +341,14 @@
 | [1386-cinema-seat-allocation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2595-number-of-even-and-odd-bits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
 | ------- |
 | [2543-check-if-point-is-reachable](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2543-check-if-point-is-reachable) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
@@ -474,4 +479,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
