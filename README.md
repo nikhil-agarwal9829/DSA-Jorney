@@ -227,6 +227,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0091-decode-ways) |
@@ -285,6 +286,7 @@
 | [0012-integer-to-roman](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0089-gray-code) |
@@ -485,5 +487,6 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
