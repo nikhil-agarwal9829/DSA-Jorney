@@ -489,4 +489,12 @@
 | ------- |
 | [0062-unique-paths](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
