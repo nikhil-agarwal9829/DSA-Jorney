@@ -47,6 +47,7 @@
 | [0403-frog-jump](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0540-single-element-in-a-sorted-array) |
@@ -175,6 +176,7 @@
 | [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0922-sort-array-by-parity-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -220,6 +222,7 @@
 | [0283-move-zeroes](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0567-permutation-in-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0922-sort-array-by-parity-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -385,6 +388,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
 | [2498-frog-jump-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2498-frog-jump-ii) |
@@ -512,4 +516,8 @@
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
