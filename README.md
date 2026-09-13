@@ -73,6 +73,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2029-stone-game-ix) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -176,6 +177,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0922-sort-array-by-parity-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -220,6 +222,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0567-permutation-in-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0922-sort-array-by-parity-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -249,6 +252,7 @@
 | [1406-stone-game-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1563-stone-game-v) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -273,6 +277,7 @@
 | [0875-koko-eating-bananas](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2498-frog-jump-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Interactive
@@ -344,6 +349,7 @@
 | [0268-missing-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1386-cinema-seat-allocation) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2595-number-of-even-and-odd-bits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -483,6 +489,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Combinatorics
 |  |
@@ -497,4 +504,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0416-partition-equal-subset-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
