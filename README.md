@@ -534,6 +534,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0570-managers-with-at-least-5-direct-reports) |
