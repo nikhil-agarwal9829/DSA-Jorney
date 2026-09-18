@@ -51,6 +51,7 @@
 | [0455-assign-cookies](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0704-binary-search) |
@@ -249,6 +250,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
@@ -507,6 +509,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -531,6 +534,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0518-coin-change-ii) |
 ## Database
 |  |
 | ------- |
