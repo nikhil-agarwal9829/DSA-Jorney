@@ -21,6 +21,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -351,6 +352,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0137-single-number-ii) |
@@ -428,6 +430,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
