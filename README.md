@@ -63,6 +63,7 @@
 | [0877-stone-game](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0922-sort-array-by-parity-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -282,6 +283,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1539-kth-missing-positive-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -407,6 +409,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
@@ -435,6 +438,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/nikhil-agarwal9829/DSA-Jorney/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
